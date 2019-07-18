@@ -5,10 +5,20 @@
 // subtract(7,4);
 
 
+try {
+	if (arr[i].search(/@/))
+		throw new Error("Not working")
+} catch(err) {
+	
+}
 
 
+(function(){
+	
+})()
 
 
+/^([aeiou]).*\1$/
 
 
 
